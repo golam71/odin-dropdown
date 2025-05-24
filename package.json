@@ -1,0 +1,23 @@
+{
+  "name": "odin-dropdown",
+  "version": "1.0.0",
+  "description": "A dropdown menu for buttons",
+  "keywords": [
+    "dropdown"
+  ],
+  "homepage": "https://github.com/golam71/odin-dropdown#readme",
+  "bugs": {
+    "url": "https://github.com/golam71/odin-dropdown/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/golam71/odin-dropdown.git"
+  },
+  "license": "ISC",
+  "author": "golam71",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
